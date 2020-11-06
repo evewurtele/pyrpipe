@@ -2,7 +2,7 @@
 Basic usage
 ======================================================
 
-Many usage examples are available at https://github.com/urmi-21/pyrpipe/tree/master/examples
+Many usage examples are available at https://github.com/urmi-21/pyrpipe/tree/master/examples 
 
 
 Transcript assembly
